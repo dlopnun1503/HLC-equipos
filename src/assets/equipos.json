@@ -1,0 +1,296 @@
+[
+    {
+        "nombre": "FC Barcelona",
+        "division": "La Liga",
+        "pais": "España",
+        "estadio": "Camp Nou"
+    },
+    {
+        "nombre": "Real Madrid",
+        "division": "La Liga",
+        "pais": "España",
+        "estadio": "Santiago Bernabéu"
+    },
+    {
+        "nombre": "Manchester United",
+        "division": "Premier League",
+        "pais": "Inglaterra",
+        "estadio": "Old Trafford"
+    },
+    {
+        "nombre": "Chelsea",
+        "division": "Premier League",
+        "pais": "Inglaterra",
+        "estadio": "Stamford Bridge"
+    },
+    {
+        "nombre": "Paris Saint-Germain",
+        "division": "Ligue 1",
+        "pais": "Francia",
+        "estadio": "Parc des Princes"
+    },
+    {
+        "nombre": "Juventus",
+        "division": "Serie A",
+        "pais": "Italia",
+        "estadio": "Allianz Stadium"
+    },
+    {
+        "nombre": "Bayern Munich",
+        "division": "Bundesliga",
+        "pais": "Alemania",
+        "estadio": "Allianz Arena"
+    },
+    {
+        "nombre": "AC Milan",
+        "division": "Serie A",
+        "pais": "Italia",
+        "estadio": "San Siro"
+    },
+    {
+        "nombre": "Ajax",
+        "division": "Eredivisie",
+        "pais": "Países Bajos",
+        "estadio": "Johan Cruyff Arena"
+    },
+    {
+        "nombre": "River Plate",
+        "division": "Primera División",
+        "pais": "Argentina",
+        "estadio": "Monumental"
+    },
+    {
+        "nombre": "Boca Juniors",
+        "division": "Primera División",
+        "pais": "Argentina",
+        "estadio": "La Bombonera"
+    },
+    {
+        "nombre": "Santos",
+        "division": "Serie A",
+        "pais": "Brasil",
+        "estadio": "Vila Belmiro"
+    },
+    {
+        "nombre": "Flamengo",
+        "division": "Serie A",
+        "pais": "Brasil",
+        "estadio": "Maracanã"
+    },
+    {
+        "nombre": "Palmeiras",
+        "division": "Serie A",
+        "pais": "Brasil",
+        "estadio": "Allianz Parque"
+    },
+    {
+        "nombre": "Liverpool",
+        "division": "Premier League",
+        "pais": "Inglaterra",
+        "estadio": "Anfield"
+    },
+    {
+        "nombre": "Arsenal",
+        "division": "Premier League",
+        "pais": "Inglaterra",
+        "estadio": "Emirates Stadium"
+    },
+    {
+        "nombre": "Atletico de Madrid",
+        "division": "La Liga",
+        "pais": "España",
+        "estadio": "Wanda Metropolitano"
+    },
+    {
+        "nombre": "Sevilla",
+        "division": "La Liga",
+        "pais": "España",
+        "estadio": "Ramón Sánchez-Pizjuán"
+    },
+    {
+        "nombre": "Benfica",
+        "division": "Primeira Liga",
+        "pais": "Portugal",
+        "estadio": "Estádio da Luz"
+    },
+    {
+        "nombre": "Porto",
+        "division": "Primeira Liga",
+        "pais": "Portugal",
+        "estadio": "Estádio do Dragão"
+    },
+    {
+        "nombre": "Sporting CP",
+        "division": "Primeira Liga",
+        "pais": "Portugal",
+        "estadio": "Estádio José Alvalade"
+    },
+    {
+        "nombre": "PSV Eindhoven",
+        "division": "Eredivisie",
+        "pais": "Países Bajos",
+        "estadio": "Philips Stadion"
+    },
+    {
+        "nombre": "Inter de Milán",
+        "division": "Serie A",
+        "pais": "Italia",
+        "estadio": "San Siro"
+    },
+    {
+        "nombre": "AS Roma",
+        "division": "Serie A",
+        "pais": "Italia",
+        "estadio": "Stadio Olimpico"
+    },
+    {
+        "nombre": "Napoli",
+        "division": "Serie A",
+        "pais": "Italia",
+        "estadio": "Stadio Diego Armando Maradona"
+    },
+    {
+        "nombre": "Borussia Dortmund",
+        "division": "Bundesliga",
+        "pais": "Alemania",
+        "estadio": "Signal Iduna Park"
+    },
+    {
+        "nombre": "Schalke 04",
+        "division": "Bundesliga",
+        "pais": "Alemania",
+        "estadio": "Veltins-Arena"
+    },
+    {
+        "nombre": "Olympique de Marsella",
+        "division": "Ligue 1",
+        "pais": "Francia",
+        "estadio": "Stade Vélodrome"
+    },
+    {
+        "nombre": "Lyon",
+        "division": "Ligue 1",
+        "pais": "Francia",
+        "estadio": "Parc Olympique Lyonnais"
+    },
+    {
+        "nombre": "Monaco",
+        "division": "Ligue 1",
+        "pais": "Francia",
+        "estadio": "Stade Louis II"
+    },
+    {
+        "nombre": "Celtic",
+        "division": "Scottish Premiership",
+        "pais": "Escocia",
+        "estadio": "Celtic Park"
+    },
+    {
+        "nombre": "Rangers",
+        "division": "Scottish Premiership",
+        "pais": "Escocia",
+        "estadio": "Ibrox Stadium"
+    },
+    {
+        "nombre": "New York City FC",
+        "division": "MLS",
+        "pais": "Estados Unidos",
+        "estadio": "Yankee Stadium"
+    },
+    {
+        "nombre": "Los Angeles FC",
+        "division": "MLS",
+        "pais": "Estados Unidos",
+        "estadio": "Banc of California Stadium"
+    },
+    {
+        "nombre": "Toronto FC",
+        "division": "MLS",
+        "pais": "Canadá",
+        "estadio": "BMO Field"
+    },
+    {
+        "nombre": "América",
+        "division": "Liga MX",
+        "pais": "México",
+        "estadio": "Estadio Azteca"
+    },
+    {
+        "nombre": "Chivas",
+        "division": "Liga MX",
+        "pais": "México",
+        "estadio": "Estadio Akron"
+    },
+    {
+        "nombre": "Tigres UANL",
+        "division": "Liga MX",
+        "pais": "México",
+        "estadio": "Estadio Universitario"
+    },
+    {
+        "nombre": "Pachuca",
+        "division": "Liga MX",
+        "pais": "México",
+        "estadio": "Estadio Hidalgo"
+    },
+    {
+        "nombre": "Villarreal",
+        "division": "La Liga",
+        "pais": "España",
+        "estadio": "Estadio de la Cerámica"
+    },
+    {
+        "nombre": "Real Betis",
+        "division": "La Liga",
+        "pais": "España",
+        "estadio": "Benito Villamarín"
+    },
+    {
+        "nombre": "Feyenoord",
+        "division": "Eredivisie",
+        "pais": "Países Bajos",
+        "estadio": "De Kuip"
+    },
+    {
+        "nombre": "Valencia",
+        "division": "La Liga",
+        "pais": "España",
+        "estadio": "Mestalla"
+    },
+    {
+        "nombre": "Eintracht Frankfurt",
+        "division": "Bundesliga",
+        "pais": "Alemania",
+        "estadio": "Deutsche Bank Park"
+    },
+    {
+        "nombre": "RB Leipzig",
+        "division": "Bundesliga",
+        "pais": "Alemania",
+        "estadio": "Red Bull Arena"
+    },
+    {
+        "nombre": "Galatasaray",
+        "division": "Super Lig",
+        "pais": "Turquía",
+        "estadio": "Türk Telekom Stadium"
+    },
+    {
+        "nombre": "Fenerbahçe",
+        "division": "Super Lig",
+        "pais": "Turquía",
+        "estadio": "Şükrü Saracoğlu Stadium"
+    },
+    {
+        "nombre": "Besiktas",
+        "division": "Super Lig",
+        "pais": "Turquía",
+        "estadio": "Vodafone Park"
+    },
+    {
+        "nombre": "CSKA Moscú",
+        "division": "Russian Premier League",
+        "pais": "Rusia",
+        "estadio": "VEB Arena"
+    }
+]

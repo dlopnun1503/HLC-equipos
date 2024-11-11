@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+import { Observable } from 'rxjs';
 
 @Component({
   selector: 'app-home',
@@ -6,7 +8,10 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
+  items: Observable<any>;
+  filtro: string = '';
 
-  constructor() {}
-
+  constructor(private http: HttpClient) {
+    this.items = this.http.get('/assets/equipos.json');
+  }
 }
